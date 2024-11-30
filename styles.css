@@ -5,3 +5,13 @@
 body{
     width: 80%;
 }
+
+.checked {
+    color: orange;
+  }
+
+form{
+    border-style: outset;
+    border-radius: 25px;
+    padding: 10px;
+}
