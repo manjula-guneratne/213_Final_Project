@@ -4,6 +4,7 @@
 
 body{
     width: 80%;
+    /* margin: auto */
 }
 
 .checked {
@@ -20,3 +21,15 @@ map{
     height: 25%;
     width: 25%;
 }
+
+table,td,tr{
+    border: 1px solid black;
+}
+
+/* image{
+    height: auto; width: 75%;
+} */
+
+/* .center_map{
+    text-align: center;
+} */
