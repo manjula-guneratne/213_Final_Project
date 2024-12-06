@@ -2,9 +2,9 @@
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-body{
+body.mid{
     width: 80%;
-    /* margin: auto */
+    margin: auto
 }
 
 .checked {
