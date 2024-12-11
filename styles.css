@@ -2,9 +2,14 @@
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+html{
+    background-color: #0c544c;
+}
+
 body.mid{
     width: 80%;
-    margin: auto
+    height:fit-content;
+    margin: auto;
 }
 
 .checked {
