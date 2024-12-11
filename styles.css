@@ -40,3 +40,8 @@ table,td,tr{
     height: auto;
     width: 50%;
 }
+
+.icon{
+    width: 8%;
+    display: inline;
+}
