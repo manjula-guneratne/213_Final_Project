@@ -18,7 +18,7 @@
 * Bootstrap
 
 <a name="links"></a>
-### Web page : [Page-link](https://manjula-guneratne.github.io/Job_Applications_Management/](http://studentweb.cencol.ca/mgunera1/213_Final_Project/index.html)
+### Web page : [Page-link](http://studentweb.cencol.ca/mgunera1/213_Final_Project/index.html)
 ### Github link : [Job Application Management](https://github.com/manjula-guneratne/213_Final_Project)
 
 ### Contribution
